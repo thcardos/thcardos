@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&text=%E2%9C%A9%20%E2%8B%86%20%CB%9A%EF%BD%A1%F0%96%A6%B9%20%E2%8B%86%EF%BD%A1%C2%B0%20%E2%9C%A9%20Hi!%20I%E2%80%99m%20Thayn%C3%A1%20%E2%9C%A9%20%E2%8B%86%20%CB%9A%EF%BD%A1%F0%96%A6%B9%20%E2%8B%86%EF%BD%A1%C2%B0%20%E2%9C%A9%20&fontSize=28&fontColor=A462CC&fontAlign=50&fontAlignY=50&stroke=#FC0320&strokeWidth=4&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="placidplace-decorative-10389_512-ezgif.com-added-text.gif"  />
 </div>
 
 ###
@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">I'm a passionate beginner developer currently learning C and low-level programming concepts.<br><br>Currently, I'm pushing my limits at 42 Málaga, where peer-to-peer learning is the key.<br><br>✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ <br><br>- 📍 Based in Málaga, Spain<br>- 🗓️ Coding since November 2025<br>- ❤️ Interests:</p>
-<br>✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ <br>
-
-<h3 align="left">Skills I'm Working On</h3>
-
+<p align="left">I'm a passionate beginner developer currently learning C and low-level programming concepts.<br><br>Currently, I'm pushing my limits at 42 Málaga, where peer-to-peer learning is the key.<br><br>📍 Based in Málaga, Spain<br>🗓️ Coding since November 2025<br></p>
 <br clear="both">
 
 <div align="left">
@@ -29,6 +25,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="38" alt="unix logo"  />
+</div>
+<br>✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ <br>
+
+<h3 align="left">My Journey On 42</h3>
+
+<br clear="both">
+
+<div align="left">
+  
+[![thcardos's 42 stats](https://badge.mediaplus.ma/greenbinary/thcardos?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/100tfko/Libft-v7"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
+<a href="https://github.com/Celemink/Printf-42-Project">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></a>
+<a href="https://github.com/Celemink/Get-Next-Line---42-Project">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus_max.webp"/></a>
+<a href="https://github.com/Celemink/Born2BeRoot-42-Project">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus_max.webp"/></a>
+<a href="https://github.com/100tfko/Push_swap">
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp"/></a>
 </div>
 
 <br>✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ 𖤐 ｡ ⟡ ⋆ ☾ ˚ ⋆ ✩ ⋆ ˚ ☾ ⋆ ⟡ ｡ <br>
