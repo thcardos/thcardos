@@ -35,7 +35,7 @@
 <div align="left">
   
 [![thcardos's 42 stats](https://badge.mediaplus.ma/greenbinary/thcardos?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-<a href="https://github.com/100tfko/Libft-v7"><img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus_max.webp"> </a>
+<a href="https://github.com/100tfko/Libft-v7"><img src="Libft.png"> </a>
 <a href="https://github.com/Celemink/Printf-42-Project">
 <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></a>
 <a href="https://github.com/Celemink/Get-Next-Line---42-Project">
